@@ -20,7 +20,7 @@ Air Canvas is a computer vision-based drawing application that allows you to dra
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/air-canvas.git
+    git clone https://github.com/chandnii96/air-canvas.git
     cd air-canvas
     ```
 
